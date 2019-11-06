@@ -1,4 +1,4 @@
 # Jellyb0n
 Iptables based simple firewall with tkinter GUI
 
-=> Many features coming soon...
+=> Version: 1.0  -> Added new: Connection monitoring
